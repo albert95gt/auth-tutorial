@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auth-tutorial/static/css/main.3c61cd65.css",
+    "main.js": "/auth-tutorial/static/js/main.bcc48ebf.js",
+    "static/js/787.6b7abe35.chunk.js": "/auth-tutorial/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/auth-tutorial/index.html",
+    "main.3c61cd65.css.map": "/auth-tutorial/static/css/main.3c61cd65.css.map",
+    "main.bcc48ebf.js.map": "/auth-tutorial/static/js/main.bcc48ebf.js.map",
+    "787.6b7abe35.chunk.js.map": "/auth-tutorial/static/js/787.6b7abe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c61cd65.css",
+    "static/js/main.bcc48ebf.js"
+  ]
+}
